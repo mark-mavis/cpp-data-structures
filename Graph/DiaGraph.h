@@ -6,8 +6,7 @@ class DiaGraph {
     int N;
     Node* getAdjListNode(int, int, Node*);
 public:
-    Node** head;	//Adjacency list as array of pointers
+    Node** head;	// Adjacency list as array of pointers
     DiaGraph(graphEdge[], int, int);
-    // Destructor
-    ~DiaGraph();
+    ~DiaGraph();    // Destructor
 };

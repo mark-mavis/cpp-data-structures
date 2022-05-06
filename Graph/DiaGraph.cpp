@@ -1,4 +1,4 @@
-#include "Graph_Sequential.h"
+#include "DiaGraph.h"
 #include "GraphEdge.h"
 
 
