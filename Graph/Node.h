@@ -1,6 +1,7 @@
 #pragma once
 struct Node {
-	int value, cost;
+	int value;
+	int cost;
 	Node* next;
 };
 
